@@ -1,0 +1,32 @@
+_repo: Vicksburg_66365
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hanly, J. Frank (James Frank)
+    alias: Hanly, James Frank
+    birthdate: 1863
+    deathdate: 1920
+    gutenberg_agent_id: '53769'
+    url: http://www.gutenberg.org/2009/agents/53769
+    wikipedia: https://en.wikipedia.org/wiki/Frank_Hanly
+description: ''
+gutenberg_issued: '2021-09-23'
+identifiers:
+  gutenberg: '66365'
+language: en
+pgterms:marc905: 20210815120706hanly
+pgterms:marc906: '1912'
+pgterms:marc907: US
+production_note: Stephen Hutcheson and the Online Distributed Proofreading Team at
+  https://www.pgdp.net (This file was produced from images generously made available
+  by The Internet Archive)
+publication_note: United States :Jennings and Graham,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vicksburg (Miss.) -- History -- Siege, 1863'
+- !lcc 'E456'
+- GITenberg
+title: Vicksburg
+url: http://www.gutenberg.org/ebooks/66365
